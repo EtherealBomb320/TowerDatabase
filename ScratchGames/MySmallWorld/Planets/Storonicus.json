@@ -7,7 +7,7 @@
   "Data":{
     "Available":false,
     "DifficultyRating":2,
-    "Materials":["Storonite", "Emberstone", "Crimsite", "Emril", "Azurine", "Iron", "Gold"]
+    "Materials":["Storonite", "Emberstone", "Crimsite", "Emril", "Azurine", "Iron", "Gold", "Basalt"]
     "Population":1
   }
 }
