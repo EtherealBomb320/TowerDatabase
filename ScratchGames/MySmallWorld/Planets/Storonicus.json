@@ -1,4 +1,13 @@
 {
-"Map":[{"Pos":[0,0],"Hight":10,"Path":false,"PathDir":0,"Type":"Grass"}]
-  
+"Map":[
+  {
+    "Pos":[0,0],"Hight":10,"Path":false,"PathDir":0,"Type":"Grass"
+  }
+],
+  "Data":{
+    "Available":false,
+    "DifficultyRating":2,
+    "Materials":["Storonite", "Emberstone", "Crimsite", "Emril", "Azurine", "Iron", "Gold"]
+    "Population":1
+  }
 }
