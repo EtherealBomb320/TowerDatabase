@@ -1,5 +1,4 @@
 {
-  "AllMaterials":["Storonite", "Emberstone", "Crimsite", "Emril", "Azurine", "Iron", "Gold", "Bloodstone", "Tearstone", "Rock", "Basalt"]
   "AllItems":["Storonite", "Emberstone", "Crimsite", "Emril", "Azurine", "Iron", "Gold", "Bloodstone", "Tearstone", "IronIngot", "GoldIngot",
   "StoroniteIngot", "IronPickaxe", "GoldPickaxe", "StoronitePickaxe", "StonePickaxe", "EmberAmulet", "BloodAmulet", "TearAmulet"]
 }
