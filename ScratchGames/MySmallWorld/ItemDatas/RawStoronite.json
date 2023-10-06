@@ -1,1 +1,10 @@
-
+{
+  "Label":"Raw Storonite"
+  "Description":"Crimson rock found on Storonicus Prime."
+  "Data":{
+    "Class":"Resource",
+    "Refinable":true,
+    "RefineWith":"Furnace",
+    "RefineOutput":"StoroniteIngot"
+  }
+}
