@@ -1,5 +1,5 @@
 {
-  "AllItems":["RawStoronite", "Emberstone", "Crimsite", "Emril", "Azurine", "RawIron", "RawGold", "Bloodstone", "Tearstone",
+  "Items":["RawStoronite", "Emberstone", "Crimsite", "Emril", "Azurine", "RawIron", "RawGold", "Bloodstone", "Tearstone",
   "IronIngot", "GoldIngot","StoroniteIngot", "IronPickaxe", "GoldPickaxe", "StoronitePickaxe", "StonePickaxe", "EmberAmulet",
   "BloodAmulet", "TearAmulet", "Rock", "Basalt"]
 }
